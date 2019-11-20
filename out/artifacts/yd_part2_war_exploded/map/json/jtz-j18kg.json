@@ -1,0 +1,4241 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.459368326701,
+                            -10571.1701449011
+                        ],
+                        [
+                            -14620.459368326701,
+                            -10571.240895958399
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742476,
+                "TNODE": 2742471,
+                "FLAG": 65,
+                "ID": 80000621,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934653,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.459368326701,
+                            -10571.5239001874
+                        ],
+                        [
+                            -14620.459368326701,
+                            -10571.5946512447
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742472,
+                "TNODE": 2742477,
+                "FLAG": 65,
+                "ID": 80000622,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934654,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.459368326701,
+                            -10570.955305528802
+                        ],
+                        [
+                            -14620.459368326701,
+                            -10571.0993938439
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2736366,
+                "TNODE": 2742475,
+                "FLAG": 65,
+                "ID": 80000620,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934652,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.459368326701,
+                            -10571.665402302
+                        ],
+                        [
+                            -14620.459368326701,
+                            -10571.8069044165
+                        ],
+                        [
+                            -14620.459368326701,
+                            -10571.948406531
+                        ],
+                        [
+                            -14620.459306750501,
+                            -10572.582579845899
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742478,
+                "TNODE": 2742479,
+                "FLAG": 65,
+                "ID": 80000623,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934655,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.459368326701,
+                            -10571.948406531
+                        ],
+                        [
+                            -14620.2471151549,
+                            -10571.948406531
+                        ],
+                        [
+                            -14620.2471151549,
+                            -10572.0191575883
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742478,
+                "TNODE": 2742473,
+                "FLAG": 65,
+                "ID": 80000624,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934656,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.4498831284,
+                            -10570.955305528802
+                        ],
+                        [
+                            -14621.4498831284,
+                            -10571.0968076433
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2736366,
+                "TNODE": 2742115,
+                "FLAG": 65,
+                "ID": 80000591,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934623,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.954625727501,
+                            -10570.955305528802
+                        ],
+                        [
+                            -14620.954625727501,
+                            -10571.0968076433
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2736366,
+                "TNODE": 2742098,
+                "FLAG": 65,
+                "ID": 80000583,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934604,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.317804635999,
+                            -10570.955305528802
+                        ],
+                        [
+                            -14620.317804635999,
+                            -10569.964790727101
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2736366,
+                "TNODE": 2736603,
+                "FLAG": 65,
+                "ID": 80000116,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 931744,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14619.9640493496,
+                            -10571.0968076433
+                        ],
+                        [
+                            -14619.9640493496,
+                            -10570.955305528802
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2744102,
+                "TNODE": 2736366,
+                "FLAG": 65,
+                "ID": 80000784,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 935712,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.784668018101,
+                            -10570.955305528802
+                        ],
+                        [
+                            -14623.784668018101,
+                            -10571.0968076433
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2736366,
+                "TNODE": 2742512,
+                "FLAG": 65,
+                "ID": 80000635,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934851,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.3601616745,
+                            -10570.955305528802
+                        ],
+                        [
+                            -14623.3601616745,
+                            -10571.0968076433
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2736366,
+                "TNODE": 2742050,
+                "FLAG": 65,
+                "ID": 80000570,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934594,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.2179822217,
+                            -10570.955305528802
+                        ],
+                        [
+                            -14623.21865956,
+                            -10570.8138034143
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2736366,
+                "TNODE": 7231661,
+                "FLAG": 65,
+                "ID": 80003178,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 960715,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.9356553309,
+                            -10570.955305528802
+                        ],
+                        [
+                            -14622.9356553309,
+                            -10571.0968076433
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2736366,
+                "TNODE": 2742158,
+                "FLAG": 65,
+                "ID": 80000613,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934645,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.4403979301,
+                            -10570.955305528802
+                        ],
+                        [
+                            -14622.4403979301,
+                            -10571.0968076433
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2736366,
+                "TNODE": 2742142,
+                "FLAG": 65,
+                "ID": 80000605,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934637,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.9451405292,
+                            -10570.955305528802
+                        ],
+                        [
+                            -14621.9451405292,
+                            -10571.0968076433
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2736366,
+                "TNODE": 2742129,
+                "FLAG": 65,
+                "ID": 80000598,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934630,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.874389472001,
+                            -10570.955305528802
+                        ],
+                        [
+                            -14621.874389472001,
+                            -10570.8138034143
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2736366,
+                "TNODE": 2738151,
+                "FLAG": 65,
+                "ID": 80000267,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 932573,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.21865956,
+                            -10570.8138034143
+                        ],
+                        [
+                            -14622.8649042736,
+                            -10570.8138034143
+                        ],
+                        [
+                            -14622.8649042736,
+                            -10570.6723012998
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 7231661,
+                "TNODE": 2740876,
+                "FLAG": 65,
+                "ID": 80003304,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 961485,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.21865956,
+                            -10570.8138034143
+                        ],
+                        [
+                            -14623.21865956,
+                            -10570.6723012998
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 7231661,
+                "TNODE": 2792514,
+                "FLAG": 77,
+                "ID": 80134860,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 2365445,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.4498831284,
+                            -10571.1675587006
+                        ],
+                        [
+                            -14621.4498831284,
+                            -10571.2383097579
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742116,
+                "TNODE": 2742111,
+                "FLAG": 65,
+                "ID": 80000592,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934624,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.954625727501,
+                            -10571.1675587006
+                        ],
+                        [
+                            -14620.954625727501,
+                            -10571.2383097579
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742099,
+                "TNODE": 2742094,
+                "FLAG": 65,
+                "ID": 80000584,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934042,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.317804635999,
+                            -10569.8940396699
+                        ],
+                        [
+                            -14620.317804635999,
+                            -10569.823288612599
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2736604,
+                "TNODE": 2736614,
+                "FLAG": 65,
+                "ID": 80000117,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 931735,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14619.9640493496,
+                            -10571.2383097579
+                        ],
+                        [
+                            -14619.9640493496,
+                            -10571.1675587006
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2744107,
+                "TNODE": 2744101,
+                "FLAG": 65,
+                "ID": 80000786,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 935713,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.784668018101,
+                            -10571.1675587006
+                        ],
+                        [
+                            -14623.784668018101,
+                            -10571.2383097579
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742513,
+                "TNODE": 2742508,
+                "FLAG": 65,
+                "ID": 80000636,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934852,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.3601616745,
+                            -10571.1675587006
+                        ],
+                        [
+                            -14623.3601616745,
+                            -10571.2383097579
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742051,
+                "TNODE": 2742053,
+                "FLAG": 65,
+                "ID": 80000572,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934598,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.9356553309,
+                            -10571.1675587006
+                        ],
+                        [
+                            -14622.9356553309,
+                            -10571.2383097579
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742159,
+                "TNODE": 2742154,
+                "FLAG": 65,
+                "ID": 80000614,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934646,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.4403979301,
+                            -10571.1675587006
+                        ],
+                        [
+                            -14622.4403979301,
+                            -10571.2383097579
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742143,
+                "TNODE": 2742138,
+                "FLAG": 65,
+                "ID": 80000606,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934638,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.9451405292,
+                            -10571.1675587006
+                        ],
+                        [
+                            -14621.9451405292,
+                            -10571.2383097579
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742130,
+                "TNODE": 2742125,
+                "FLAG": 65,
+                "ID": 80000599,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934631,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.874389472001,
+                            -10570.743052357
+                        ],
+                        [
+                            -14621.874389472001,
+                            -10570.6723012998
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2738152,
+                "TNODE": 2738155,
+                "FLAG": 65,
+                "ID": 80000268,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 932525,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.8649042736,
+                            -10570.5307991852
+                        ],
+                        [
+                            -14622.8649042736,
+                            -10570.460048128001
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2740877,
+                "TNODE": 2740871,
+                "FLAG": 65,
+                "ID": 80000458,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 933972,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.21865956,
+                            -10570.460048128001
+                        ],
+                        [
+                            -14623.21865956,
+                            -10570.5307991852
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2741018,
+                "TNODE": 2792515,
+                "FLAG": 65,
+                "ID": 80003303,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 961483,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.4498831284,
+                            -10571.521313986901
+                        ],
+                        [
+                            -14621.4498831284,
+                            -10571.5920650442
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742112,
+                "TNODE": 2742117,
+                "FLAG": 65,
+                "ID": 80000593,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934625,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.954625727501,
+                            -10571.521313986901
+                        ],
+                        [
+                            -14620.954625727501,
+                            -10571.5920650442
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742095,
+                "TNODE": 2742100,
+                "FLAG": 65,
+                "ID": 80000585,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934605,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.317804635999,
+                            -10569.5402843835
+                        ],
+                        [
+                            -14620.317804635999,
+                            -10569.4695333263
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2736615,
+                "TNODE": 2736618,
+                "FLAG": 65,
+                "ID": 80000119,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 931738,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.784668018101,
+                            -10571.521313986901
+                        ],
+                        [
+                            -14623.784668018101,
+                            -10571.5920650442
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742509,
+                "TNODE": 2742514,
+                "FLAG": 65,
+                "ID": 80000637,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934853,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.3601616745,
+                            -10571.521313986901
+                        ],
+                        [
+                            -14623.3601616745,
+                            -10571.5920650442
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742054,
+                "TNODE": 2742057,
+                "FLAG": 65,
+                "ID": 80000573,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934034,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.9356553309,
+                            -10571.521313986901
+                        ],
+                        [
+                            -14622.9356553309,
+                            -10571.5920650442
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742155,
+                "TNODE": 2742160,
+                "FLAG": 65,
+                "ID": 80000615,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934647,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.4403979301,
+                            -10571.521313986901
+                        ],
+                        [
+                            -14622.4403979301,
+                            -10571.5920650442
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742139,
+                "TNODE": 2742144,
+                "FLAG": 65,
+                "ID": 80000607,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934639,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.9451405292,
+                            -10571.521313986901
+                        ],
+                        [
+                            -14621.9451405292,
+                            -10571.5920650442
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742126,
+                "TNODE": 2742131,
+                "FLAG": 65,
+                "ID": 80000600,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934632,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.874389472001,
+                            -10570.3892970707
+                        ],
+                        [
+                            -14621.874389472001,
+                            -10570.3185460134
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2738156,
+                "TNODE": 2738162,
+                "FLAG": 65,
+                "ID": 80000269,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 932526,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.21865956,
+                            -10570.2477949562
+                        ],
+                        [
+                            -14623.21865956,
+                            -10570.1062928416
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2741019,
+                "TNODE": 2740984,
+                "FLAG": 65,
+                "ID": 80000520,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934021,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.4498831284,
+                            -10571.9458203305
+                        ],
+                        [
+                            -14621.2376299566,
+                            -10571.9458203305
+                        ],
+                        [
+                            -14621.2376299566,
+                            -10572.0165713878
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742118,
+                "TNODE": 2742113,
+                "FLAG": 65,
+                "ID": 80000595,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934627,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.4498831284,
+                            -10571.6628161014
+                        ],
+                        [
+                            -14621.4498831284,
+                            -10571.804318216002
+                        ],
+                        [
+                            -14621.4498831284,
+                            -10571.9458203305
+                        ],
+                        [
+                            -14621.4498215522,
+                            -10572.582579845899
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742118,
+                "TNODE": 2742119,
+                "FLAG": 65,
+                "ID": 80000594,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934626,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.954625727501,
+                            -10571.9458203305
+                        ],
+                        [
+                            -14620.7423109795,
+                            -10571.9458203305
+                        ],
+                        [
+                            -14620.7423109795,
+                            -10572.0165713878
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742101,
+                "TNODE": 2742096,
+                "FLAG": 65,
+                "ID": 80000587,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934607,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.954625727501,
+                            -10571.6628161014
+                        ],
+                        [
+                            -14620.954625727501,
+                            -10571.804318216002
+                        ],
+                        [
+                            -14620.954625727501,
+                            -10571.9458203305
+                        ],
+                        [
+                            -14620.954564151301,
+                            -10572.582579845899
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742101,
+                "TNODE": 2742102,
+                "FLAG": 65,
+                "ID": 80000586,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934606,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.317804635999,
+                            -10569.398782269
+                        ],
+                        [
+                            -14620.317743059699,
+                            -10569.2572801545
+                        ],
+                        [
+                            -14620.317804635999,
+                            -10568.8327738109
+                        ],
+                        [
+                            -14620.317804635999,
+                            -10568.6912101202
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2736619,
+                "TNODE": 2736947,
+                "FLAG": 65,
+                "ID": 80000120,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 931755,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.784668018101,
+                            -10571.6628161014
+                        ],
+                        [
+                            -14623.784668018101,
+                            -10571.804318216002
+                        ],
+                        [
+                            -14623.784668018101,
+                            -10571.9458203305
+                        ],
+                        [
+                            -14623.784668018101,
+                            -10572.4410777313
+                        ],
+                        [
+                            -14623.784668018101,
+                            -10572.582579845899
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742515,
+                "TNODE": 2742516,
+                "FLAG": 65,
+                "ID": 80000638,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934854,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.3601616745,
+                            -10571.6628161014
+                        ],
+                        [
+                            -14623.3601616745,
+                            -10571.804318216002
+                        ],
+                        [
+                            -14623.3601616745,
+                            -10571.9458203305
+                        ],
+                        [
+                            -14623.3601616745,
+                            -10572.582579845899
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742058,
+                "TNODE": 2742027,
+                "FLAG": 65,
+                "ID": 80000575,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934035,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.9356553309,
+                            -10571.6628161014
+                        ],
+                        [
+                            -14622.9356553309,
+                            -10571.804318216002
+                        ],
+                        [
+                            -14622.9356553309,
+                            -10571.9458203305
+                        ],
+                        [
+                            -14622.9356553309,
+                            -10572.4410777313
+                        ],
+                        [
+                            -14622.9356553309,
+                            -10572.582579845899
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742161,
+                "TNODE": 2742162,
+                "FLAG": 65,
+                "ID": 80000616,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934648,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.4403979301,
+                            -10571.6628161014
+                        ],
+                        [
+                            -14622.4403979301,
+                            -10571.804318216002
+                        ],
+                        [
+                            -14622.4403979301,
+                            -10571.9458203305
+                        ],
+                        [
+                            -14622.4403979301,
+                            -10572.4410777313
+                        ],
+                        [
+                            -14622.4403979301,
+                            -10572.582579845899
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742145,
+                "TNODE": 2742146,
+                "FLAG": 65,
+                "ID": 80000608,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934640,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.9451405292,
+                            -10571.6628161014
+                        ],
+                        [
+                            -14621.9451405292,
+                            -10571.804318216002
+                        ],
+                        [
+                            -14621.9451405292,
+                            -10571.9458203305
+                        ],
+                        [
+                            -14621.945078953,
+                            -10572.582579845899
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2742132,
+                "TNODE": 2742133,
+                "FLAG": 65,
+                "ID": 80000601,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934633,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.874389472001,
+                            -10570.2477949562
+                        ],
+                        [
+                            -14621.874389472001,
+                            -10569.964790727101
+                        ],
+                        [
+                            -14621.8743278957,
+                            -10569.823288612599
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2738163,
+                "TNODE": 2738149,
+                "FLAG": 65,
+                "ID": 80000270,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 932567,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.21865956,
+                            -10569.964790727101
+                        ],
+                        [
+                            -14623.501663789,
+                            -10569.964790727101
+                        ],
+                        [
+                            -14623.501663789,
+                            -10570.0355417844
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2741040,
+                "TNODE": 2741052,
+                "FLAG": 65,
+                "ID": 80000529,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934046,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.874389472001,
+                            -10569.964790727101
+                        ],
+                        [
+                            -14621.6621363002,
+                            -10569.964790727101
+                        ],
+                        [
+                            -14621.6621363002,
+                            -10569.8940396699
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2738149,
+                "TNODE": 2738736,
+                "FLAG": 65,
+                "ID": 80000293,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 932822,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.874389472001,
+                            -10569.540222807302
+                        ],
+                        [
+                            -14621.874389472001,
+                            -10569.3987206928
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2738787,
+                "TNODE": 2738793,
+                "FLAG": 65,
+                "ID": 80000299,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 932875,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.501663789,
+                            -10570.2477949562
+                        ],
+                        [
+                            -14623.5020948224,
+                            -10570.3170066084
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2741053,
+                "TNODE": 2741044,
+                "FLAG": 65,
+                "ID": 80000530,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 934047,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.874389472001,
+                            -10569.3987206928
+                        ],
+                        [
+                            -14621.4498831284,
+                            -10569.3987206928
+                        ],
+                        [
+                            -14621.4498831284,
+                            -10569.2572185783
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2738793,
+                "TNODE": 2738921,
+                "FLAG": 65,
+                "ID": 80000302,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 932878,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.874389472001,
+                            -10569.3987206928
+                        ],
+                        [
+                            -14622.2988958155,
+                            -10569.3987206928
+                        ],
+                        [
+                            -14622.2988958155,
+                            -10569.2572185783
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2738793,
+                "TNODE": 2738925,
+                "FLAG": 65,
+                "ID": 80000303,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 932863,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.2988958155,
+                            -10568.974214349199
+                        ],
+                        [
+                            -14622.2988958155,
+                            -10568.8327122347
+                        ],
+                        [
+                            -14622.2992036965,
+                            -10568.6904712057
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2738926,
+                "TNODE": 19488369,
+                "FLAG": 65,
+                "ID": 80000328,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 932915,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.2992036965,
+                            -10568.4104226344
+                        ],
+                        [
+                            -14622.298526358301,
+                            -10568.314055876699
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 19488368,
+                "TNODE": 2738813,
+                "FLAG": 77,
+                "ID": 80512150,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 5479592,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.2988958155,
+                            -10568.8327122347
+                        ],
+                        [
+                            -14622.369646872801,
+                            -10568.8327122347
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2738813,
+                "TNODE": 2738964,
+                "FLAG": 65,
+                "ID": 80000341,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 932929,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.298526358301,
+                            -10568.314055876699
+                        ],
+                        [
+                            -14622.2990189679,
+                            -10568.2667037766
+                        ],
+                        [
+                            -14622.298526358301,
+                            -10568.2651027953
+                        ],
+                        [
+                            -14622.2988958155,
+                            -10568.1244627476
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 407,
+                "FNODE": 2738813,
+                "TNODE": 19450053,
+                "FLAG": 65,
+                "ID": 80000349,
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 22,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 932946,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.459368326701,
+                            -10571.240895958399
+                        ],
+                        [
+                            -14620.459368326701,
+                            -10571.5239001874
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 14,
+                "FNODE": 2742471,
+                "TNODE": 2742472,
+                "FLAG": 29,
+                "ID": 80002085,
+                "OBJ_SYM": 13,
+                "STATION": 80000852,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 102506,
+                "NAME": "九18云润甲开关",
+                "PTYPE": 10,
+                "PID": 80006322,
+                "VOLTAGE_LEVEL": 22,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.4498831284,
+                            -10571.2383097579
+                        ],
+                        [
+                            -14621.4498831284,
+                            -10571.521313986901
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 14,
+                "FNODE": 2742111,
+                "TNODE": 2742112,
+                "FLAG": 29,
+                "ID": 80002084,
+                "OBJ_SYM": 13,
+                "STATION": 80000852,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 102502,
+                "NAME": "九16核威开关站甲开关",
+                "PTYPE": 10,
+                "PID": 80006320,
+                "VOLTAGE_LEVEL": 22,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.954625727501,
+                            -10571.2383097579
+                        ],
+                        [
+                            -14620.954625727501,
+                            -10571.521313986901
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 14,
+                "FNODE": 2742094,
+                "TNODE": 2742095,
+                "FLAG": 29,
+                "ID": 80002096,
+                "OBJ_SYM": 13,
+                "STATION": 80000852,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 102501,
+                "NAME": "九17伴亭路2号环网柜开关",
+                "PTYPE": 10,
+                "PID": 80006321,
+                "VOLTAGE_LEVEL": 22,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.317804635999,
+                            -10569.823288612599
+                        ],
+                        [
+                            -14620.317804635999,
+                            -10569.5402843835
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 14,
+                "FNODE": 2736614,
+                "TNODE": 2736615,
+                "FLAG": 29,
+                "ID": 80004046,
+                "OBJ_SYM": 13,
+                "STATION": 80000852,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 102081,
+                "NAME": "1号主变10千伏开关",
+                "PTYPE": 10,
+                "PID": 80006296,
+                "VOLTAGE_LEVEL": 22,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14619.9640493496,
+                            -10571.521313986901
+                        ],
+                        [
+                            -14619.9640493496,
+                            -10571.2383097579
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 14,
+                "FNODE": 2744106,
+                "TNODE": 2744107,
+                "FLAG": 13,
+                "ID": 80003092,
+                "OBJ_SYM": 13,
+                "STATION": 80000852,
+                "DEF_STATUS": 0,
+                "WORKSPACE": 63,
+                "KID": 102666,
+                "NAME": "10千伏一/二段分段开关",
+                "PTYPE": 10,
+                "PID": 80006290,
+                "VOLTAGE_LEVEL": 22,
+                "USAGE": 1,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.784668018101,
+                            -10571.2383097579
+                        ],
+                        [
+                            -14623.784668018101,
+                            -10571.521313986901
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 14,
+                "FNODE": 2742508,
+                "TNODE": 2742509,
+                "FLAG": 29,
+                "ID": 80002092,
+                "OBJ_SYM": 13,
+                "STATION": 80000852,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 102535,
+                "NAME": "九11龙珠花苑甲/九61沪亭北路1号分支箱开关",
+                "PTYPE": 10,
+                "PID": 80006315,
+                "VOLTAGE_LEVEL": 22,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.3601616745,
+                            -10571.2383097579
+                        ],
+                        [
+                            -14623.3601616745,
+                            -10571.521313986901
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 14,
+                "FNODE": 2742053,
+                "TNODE": 2742054,
+                "FLAG": 29,
+                "ID": 80002082,
+                "OBJ_SYM": 13,
+                "STATION": 80000852,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 102500,
+                "NAME": "九12翻身开关",
+                "PTYPE": 10,
+                "PID": 80006316,
+                "VOLTAGE_LEVEL": 22,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.9356553309,
+                            -10571.2383097579
+                        ],
+                        [
+                            -14622.9356553309,
+                            -10571.521313986901
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 14,
+                "FNODE": 2742154,
+                "TNODE": 2742155,
+                "FLAG": 29,
+                "ID": 80002083,
+                "OBJ_SYM": 13,
+                "STATION": 80000852,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 102505,
+                "NAME": "九13朱坊开关",
+                "PTYPE": 10,
+                "PID": 80006317,
+                "VOLTAGE_LEVEL": 22,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.4403979301,
+                            -10571.2383097579
+                        ],
+                        [
+                            -14622.4403979301,
+                            -10571.521313986901
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 14,
+                "FNODE": 2742138,
+                "TNODE": 2742139,
+                "FLAG": 29,
+                "ID": 80002093,
+                "OBJ_SYM": 13,
+                "STATION": 80000852,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 102504,
+                "NAME": "九14奥林匹克乙开关",
+                "PTYPE": 10,
+                "PID": 80006318,
+                "VOLTAGE_LEVEL": 22,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.9451405292,
+                            -10571.2383097579
+                        ],
+                        [
+                            -14621.9451405292,
+                            -10571.521313986901
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 14,
+                "FNODE": 2742125,
+                "TNODE": 2742126,
+                "FLAG": 29,
+                "ID": 80002095,
+                "OBJ_SYM": 13,
+                "STATION": 80000852,
+                "DEF_STATUS": 0,
+                "WORKSPACE": 63,
+                "KID": 102503,
+                "NAME": "九15宝北开关",
+                "PTYPE": 10,
+                "PID": 80006319,
+                "VOLTAGE_LEVEL": 22,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.874389472001,
+                            -10570.6723012998
+                        ],
+                        [
+                            -14621.874389472001,
+                            -10570.3892970707
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 14,
+                "FNODE": 2738155,
+                "TNODE": 2738156,
+                "FLAG": 29,
+                "ID": 80003902,
+                "OBJ_SYM": 13,
+                "STATION": 80000852,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 102214,
+                "NAME": "10千伏1号电容器开关",
+                "PTYPE": 10,
+                "PID": 80006292,
+                "VOLTAGE_LEVEL": 22,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.4498831284,
+                            -10569.2572185783
+                        ],
+                        [
+                            -14621.4498831284,
+                            -10568.974214349199
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 14,
+                "FNODE": 2738921,
+                "TNODE": 2738922,
+                "FLAG": 13,
+                "ID": 80003903,
+                "OBJ_SYM": 13,
+                "STATION": 80000852,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 102260,
+                "NAME": "10千伏1号电容器乙组开关",
+                "PTYPE": 11,
+                "PID": 80024018,
+                "VOLTAGE_LEVEL": 22,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.2988958155,
+                            -10569.2572185783
+                        ],
+                        [
+                            -14622.2988958155,
+                            -10568.974214349199
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 14,
+                "FNODE": 2738925,
+                "TNODE": 2738926,
+                "FLAG": 29,
+                "ID": 80003901,
+                "OBJ_SYM": 13,
+                "STATION": 80000852,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 102261,
+                "NAME": "10千伏1号电容器甲组开关",
+                "PTYPE": 11,
+                "PID": 80024016,
+                "VOLTAGE_LEVEL": 22,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.459368326701,
+                            -10571.0993938439
+                        ],
+                        [
+                            -14620.459368326701,
+                            -10571.1701449011
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2742475,
+                "TNODE": 2742476,
+                "FLAG": 29,
+                "ID": 80000093,
+                "STATION": 80000852,
+                "CIRCUIT": 80006322,
+                "OBJ_SYM": 134,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80002085,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 138050,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.459368326701,
+                            -10571.5946512447
+                        ],
+                        [
+                            -14620.459368326701,
+                            -10571.665402302
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2742477,
+                "TNODE": 2742478,
+                "FLAG": 29,
+                "ID": 80000094,
+                "STATION": 80000852,
+                "CIRCUIT": 80006322,
+                "OBJ_SYM": 192,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80002085,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 138063,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.4498831284,
+                            -10571.0968076433
+                        ],
+                        [
+                            -14621.4498831284,
+                            -10571.1675587006
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2742115,
+                "TNODE": 2742116,
+                "FLAG": 29,
+                "ID": 80000085,
+                "STATION": 80000852,
+                "CIRCUIT": 80006320,
+                "OBJ_SYM": 134,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80002084,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 138042,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.954625727501,
+                            -10571.0968076433
+                        ],
+                        [
+                            -14620.954625727501,
+                            -10571.1675587006
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2742098,
+                "TNODE": 2742099,
+                "FLAG": 29,
+                "ID": 80000083,
+                "STATION": 80000852,
+                "CIRCUIT": 80006321,
+                "OBJ_SYM": 134,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80002096,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 138040,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.317804635999,
+                            -10569.964790727101
+                        ],
+                        [
+                            -14620.317804635999,
+                            -10569.8940396699
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2736603,
+                "TNODE": 2736604,
+                "FLAG": 29,
+                "ID": 80000009,
+                "STATION": 80000852,
+                "CIRCUIT": 80010984,
+                "OBJ_SYM": 134,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80004046,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 137564,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14619.9640493496,
+                            -10571.1675587006
+                        ],
+                        [
+                            -14619.9640493496,
+                            -10571.0968076433
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2744101,
+                "TNODE": 2744102,
+                "FLAG": 29,
+                "ID": 80000121,
+                "STATION": 80000852,
+                "CIRCUIT": 80006290,
+                "OBJ_SYM": 192,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80003092,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 138348,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.784668018101,
+                            -10571.0968076433
+                        ],
+                        [
+                            -14623.784668018101,
+                            -10571.1675587006
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2742512,
+                "TNODE": 2742513,
+                "FLAG": 29,
+                "ID": 80000097,
+                "STATION": 80000852,
+                "CIRCUIT": 80006315,
+                "OBJ_SYM": 134,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80002092,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 138120,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.3601616745,
+                            -10571.0968076433
+                        ],
+                        [
+                            -14623.3601616745,
+                            -10571.1675587006
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2742050,
+                "TNODE": 2742051,
+                "FLAG": 29,
+                "ID": 80000081,
+                "STATION": 80000852,
+                "CIRCUIT": 80006316,
+                "OBJ_SYM": 134,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80002082,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 138038,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.9356553309,
+                            -10571.0968076433
+                        ],
+                        [
+                            -14622.9356553309,
+                            -10571.1675587006
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2742158,
+                "TNODE": 2742159,
+                "FLAG": 29,
+                "ID": 80000091,
+                "STATION": 80000852,
+                "CIRCUIT": 80006317,
+                "OBJ_SYM": 134,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80002083,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 138048,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.4403979301,
+                            -10571.0968076433
+                        ],
+                        [
+                            -14622.4403979301,
+                            -10571.1675587006
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2742142,
+                "TNODE": 2742143,
+                "FLAG": 29,
+                "ID": 80000089,
+                "STATION": 80000852,
+                "CIRCUIT": 80006318,
+                "OBJ_SYM": 134,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80002093,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 138046,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.9451405292,
+                            -10571.0968076433
+                        ],
+                        [
+                            -14621.9451405292,
+                            -10571.1675587006
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2742129,
+                "TNODE": 2742130,
+                "FLAG": 29,
+                "ID": 80000087,
+                "STATION": 80000852,
+                "CIRCUIT": 80006319,
+                "OBJ_SYM": 134,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80002095,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 138044,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.874389472001,
+                            -10570.8138034143
+                        ],
+                        [
+                            -14621.874389472001,
+                            -10570.743052357
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2738151,
+                "TNODE": 2738152,
+                "FLAG": 29,
+                "ID": 80000039,
+                "STATION": 80000852,
+                "CIRCUIT": 80006292,
+                "OBJ_SYM": 134,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80003902,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 137638,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.4498831284,
+                            -10571.5920650442
+                        ],
+                        [
+                            -14621.4498831284,
+                            -10571.6628161014
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2742117,
+                "TNODE": 2742118,
+                "FLAG": 29,
+                "ID": 80000086,
+                "STATION": 80000852,
+                "CIRCUIT": 80006320,
+                "OBJ_SYM": 192,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80002084,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 138043,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.954625727501,
+                            -10571.5920650442
+                        ],
+                        [
+                            -14620.954625727501,
+                            -10571.6628161014
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2742100,
+                "TNODE": 2742101,
+                "FLAG": 29,
+                "ID": 80000084,
+                "STATION": 80000852,
+                "CIRCUIT": 80006321,
+                "OBJ_SYM": 192,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80002096,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 138041,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.317804635999,
+                            -10569.4695333263
+                        ],
+                        [
+                            -14620.317804635999,
+                            -10569.398782269
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2736618,
+                "TNODE": 2736619,
+                "FLAG": 29,
+                "ID": 80000010,
+                "STATION": 80000852,
+                "CIRCUIT": 80010984,
+                "OBJ_SYM": 192,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80004046,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 137565,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.784668018101,
+                            -10571.5920650442
+                        ],
+                        [
+                            -14623.784668018101,
+                            -10571.6628161014
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2742514,
+                "TNODE": 2742515,
+                "FLAG": 29,
+                "ID": 80000098,
+                "STATION": 80000852,
+                "CIRCUIT": 80006315,
+                "OBJ_SYM": 192,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80002092,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 138051,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.3601616745,
+                            -10571.5920650442
+                        ],
+                        [
+                            -14623.3601616745,
+                            -10571.6628161014
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2742057,
+                "TNODE": 2742058,
+                "FLAG": 29,
+                "ID": 80000082,
+                "STATION": 80000852,
+                "CIRCUIT": 80006316,
+                "OBJ_SYM": 192,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80002082,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 138039,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.9356553309,
+                            -10571.5920650442
+                        ],
+                        [
+                            -14622.9356553309,
+                            -10571.6628161014
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2742160,
+                "TNODE": 2742161,
+                "FLAG": 29,
+                "ID": 80000092,
+                "STATION": 80000852,
+                "CIRCUIT": 80006317,
+                "OBJ_SYM": 192,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80002083,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 138049,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.4403979301,
+                            -10571.5920650442
+                        ],
+                        [
+                            -14622.4403979301,
+                            -10571.6628161014
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2742144,
+                "TNODE": 2742145,
+                "FLAG": 29,
+                "ID": 80000090,
+                "STATION": 80000852,
+                "CIRCUIT": 80006318,
+                "OBJ_SYM": 192,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80002093,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 138047,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.9451405292,
+                            -10571.5920650442
+                        ],
+                        [
+                            -14621.9451405292,
+                            -10571.6628161014
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2742131,
+                "TNODE": 2742132,
+                "FLAG": 29,
+                "ID": 80000088,
+                "STATION": 80000852,
+                "CIRCUIT": 80006319,
+                "OBJ_SYM": 192,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80002095,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 138045,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.874389472001,
+                            -10570.3185460134
+                        ],
+                        [
+                            -14621.874389472001,
+                            -10570.2477949562
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 30,
+                "FNODE": 2738162,
+                "TNODE": 2738163,
+                "FLAG": 29,
+                "ID": 80000040,
+                "STATION": 80000852,
+                "CIRCUIT": 80006292,
+                "OBJ_SYM": 192,
+                "BASE_OBJ_TYPE": 14,
+                "BASE_OBJ_ID": 80003902,
+                "VOLTAGE_LEVEL": 22,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 137639,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14620.459368326701,
+                    -10571.8069044165
+                ]
+            },
+            "properties": {
+                "obj_type": 48,
+                "FNODE": 2742478,
+                "FLAG": 65,
+                "ID": 80005442,
+                "OBJ_SYM": 89,
+                "OBJ_SIZE": 14,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 173032,
+                "NAME": "九18云润甲流变",
+                "PTYPE": 10,
+                "PID": 80006322,
+                "VOLTAGE_LEVEL": 22,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14621.4498831284,
+                    -10571.804318216002
+                ]
+            },
+            "properties": {
+                "obj_type": 48,
+                "FNODE": 2742118,
+                "FLAG": 65,
+                "ID": 80005425,
+                "OBJ_SYM": 89,
+                "OBJ_SIZE": 14,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 173030,
+                "NAME": "九16核威开关站甲流变",
+                "PTYPE": 10,
+                "PID": 80006320,
+                "VOLTAGE_LEVEL": 22,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14620.954625727501,
+                    -10571.804318216002
+                ]
+            },
+            "properties": {
+                "obj_type": 48,
+                "FNODE": 2742101,
+                "FLAG": 65,
+                "ID": 80005441,
+                "OBJ_SYM": 89,
+                "OBJ_SIZE": 14,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 173031,
+                "NAME": "九17伴亭路2号环网柜流变",
+                "PTYPE": 10,
+                "PID": 80006321,
+                "VOLTAGE_LEVEL": 22,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14620.317743059699,
+                    -10569.2572801545
+                ]
+            },
+            "properties": {
+                "obj_type": 48,
+                "FNODE": 2736619,
+                "FLAG": 65,
+                "ID": 80008724,
+                "OBJ_SYM": 89,
+                "OBJ_SIZE": 14,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 173340,
+                "NAME": "1号主变10千伏流变",
+                "PTYPE": 10,
+                "PID": 80006296,
+                "VOLTAGE_LEVEL": 22,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14623.784668018101,
+                    -10571.804318216002
+                ]
+            },
+            "properties": {
+                "obj_type": 48,
+                "FNODE": 2742515,
+                "FLAG": 65,
+                "ID": 80005438,
+                "OBJ_SYM": 89,
+                "OBJ_SIZE": 14,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 172929,
+                "NAME": "九11龙珠花苑甲/九61沪亭北路1号分支箱流变",
+                "PTYPE": 10,
+                "PID": 80006315,
+                "VOLTAGE_LEVEL": 22,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14623.3601616745,
+                    -10571.804318216002
+                ]
+            },
+            "properties": {
+                "obj_type": 48,
+                "FNODE": 2742058,
+                "FLAG": 65,
+                "ID": 80005437,
+                "OBJ_SYM": 89,
+                "OBJ_SIZE": 14,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 172930,
+                "NAME": "九12翻身流变",
+                "PTYPE": 10,
+                "PID": 80006316,
+                "VOLTAGE_LEVEL": 22,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14622.9356553309,
+                    -10571.804318216002
+                ]
+            },
+            "properties": {
+                "obj_type": 48,
+                "FNODE": 2742161,
+                "FLAG": 65,
+                "ID": 80005439,
+                "OBJ_SYM": 89,
+                "OBJ_SIZE": 14,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 172998,
+                "NAME": "九13朱坊流变",
+                "PTYPE": 10,
+                "PID": 80006317,
+                "VOLTAGE_LEVEL": 22,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14622.4403979301,
+                    -10571.804318216002
+                ]
+            },
+            "properties": {
+                "obj_type": 48,
+                "FNODE": 2742145,
+                "FLAG": 65,
+                "ID": 80005433,
+                "OBJ_SYM": 89,
+                "OBJ_SIZE": 14,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 173026,
+                "NAME": "九14奥林匹克乙流变",
+                "PTYPE": 10,
+                "PID": 80006318,
+                "VOLTAGE_LEVEL": 22,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14621.9451405292,
+                    -10571.804318216002
+                ]
+            },
+            "properties": {
+                "obj_type": 48,
+                "FNODE": 2742132,
+                "FLAG": 65,
+                "ID": 80005424,
+                "OBJ_SYM": 89,
+                "OBJ_SIZE": 14,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 173029,
+                "NAME": "九15宝北流变",
+                "PTYPE": 10,
+                "PID": 80006319,
+                "VOLTAGE_LEVEL": 22,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14621.874389472001,
+                    -10570.1062928416
+                ]
+            },
+            "properties": {
+                "obj_type": 48,
+                "FNODE": 2738163,
+                "FLAG": 65,
+                "ID": 80008581,
+                "OBJ_SYM": 89,
+                "OBJ_SIZE": 14,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 173537,
+                "NAME": "10千伏1号电容器电流互感器",
+                "PTYPE": 10,
+                "PID": 80006292,
+                "VOLTAGE_LEVEL": 22,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.9969211899,
+                            -10570.955305528802
+                        ],
+                        [
+                            -14619.9640493496,
+                            -10570.955305528802
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 13,
+                "FNODE": 2736366,
+                "FLAG": 65,
+                "ID": 80001084,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 25902,
+                "NAME": "10千伏一段母线",
+                "PTYPE": 10,
+                "PID": 80010842,
+                "VOLTAGE_LEVEL": 22,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.2471151549,
+                            -10572.0191575883
+                        ],
+                        [
+                            -14620.2471151549,
+                            -10572.2314723363
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 15,
+                "FNODE": 2742473,
+                "TNODE": 2742474,
+                "FLAG": 13,
+                "ID": 80003671,
+                "STATION": 80000852,
+                "DEF_STATUS": 0,
+                "WORKSPACE": 63,
+                "KID": 129809,
+                "NAME": "九18云润甲线路接地闸刀",
+                "PTYPE": 10,
+                "PID": 80006322,
+                "VOLTAGE_LEVEL": 22,
+                "SUBTYPE": 2,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.2376299566,
+                            -10572.0165713878
+                        ],
+                        [
+                            -14621.2376299566,
+                            -10572.2288245595
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 15,
+                "FNODE": 2742113,
+                "TNODE": 2742114,
+                "FLAG": 13,
+                "ID": 80003676,
+                "STATION": 80000852,
+                "DEF_STATUS": 0,
+                "WORKSPACE": 63,
+                "KID": 129805,
+                "NAME": "九16核威开关站甲线路接地闸刀",
+                "PTYPE": 10,
+                "PID": 80006320,
+                "VOLTAGE_LEVEL": 22,
+                "SUBTYPE": 2,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14620.7423109795,
+                            -10572.0165713878
+                        ],
+                        [
+                            -14620.7423109795,
+                            -10572.2288245595
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 15,
+                "FNODE": 2742096,
+                "TNODE": 2742097,
+                "FLAG": 13,
+                "ID": 80003677,
+                "STATION": 80000852,
+                "DEF_STATUS": 0,
+                "WORKSPACE": 63,
+                "KID": 129803,
+                "NAME": "九17伴亭路2号环网柜线路接地闸刀",
+                "PTYPE": 10,
+                "PID": 80006321,
+                "VOLTAGE_LEVEL": 22,
+                "SUBTYPE": 2,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.501663789,
+                            -10570.0355417844
+                        ],
+                        [
+                            -14623.501663789,
+                            -10570.2477949562
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 15,
+                "FNODE": 2741052,
+                "TNODE": 2741053,
+                "FLAG": 25,
+                "ID": 80009942,
+                "STATION": 80000852,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 129716,
+                "NAME": "10千伏一段压变中性点接地闸刀",
+                "PTYPE": 10,
+                "PID": 80006286,
+                "VOLTAGE_LEVEL": 22,
+                "SUBTYPE": 2,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.6621363002,
+                            -10569.8940396699
+                        ],
+                        [
+                            -14621.6621363002,
+                            -10569.6817864981
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 15,
+                "FNODE": 2738736,
+                "TNODE": 2738737,
+                "FLAG": 13,
+                "ID": 80006041,
+                "STATION": 80000852,
+                "DEF_STATUS": 0,
+                "WORKSPACE": 63,
+                "KID": 129521,
+                "NAME": "10千伏1号电容器接地闸刀",
+                "PTYPE": 10,
+                "PID": 80006292,
+                "VOLTAGE_LEVEL": 22,
+                "SUBTYPE": 2,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.369646872801,
+                            -10568.8327122347
+                        ],
+                        [
+                            -14622.581900044599,
+                            -10568.8327122347
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 15,
+                "FNODE": 2738964,
+                "TNODE": 2738965,
+                "FLAG": 13,
+                "ID": 80009902,
+                "STATION": 80000852,
+                "DEF_STATUS": 0,
+                "WORKSPACE": 63,
+                "KID": 129525,
+                "NAME": "10千伏1号电容器甲组接地闸刀",
+                "PTYPE": 11,
+                "PID": 80024016,
+                "VOLTAGE_LEVEL": 22,
+                "SUBTYPE": 2,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.8649042736,
+                            -10570.6723012998
+                        ],
+                        [
+                            -14622.8649042736,
+                            -10570.5307991852
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 34,
+                "FNODE": 2740876,
+                "TNODE": 2740877,
+                "FLAG": 29,
+                "ID": 80000010,
+                "OBJ_SYM": 135,
+                "CIRCUIT": 80006286,
+                "STATION": 80000852,
+                "VOLTAGE_LEVEL": 22,
+                "BASE_OBJ_TYPE": 41,
+                "BASE_OBJ_ID": 80003909,
+                "DEF_STATUS": 1,
+                "NAME": "",
+                "WORKSPACE": 63,
+                "KID": 5674,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.21865956,
+                            -10570.6723012998
+                        ],
+                        [
+                            -14623.21865956,
+                            -10570.5307991852
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 34,
+                "FNODE": 2792514,
+                "TNODE": 2792515,
+                "FLAG": 29,
+                "ID": 80000044,
+                "OBJ_SYM": 135,
+                "CIRCUIT": 80006286,
+                "STATION": 80000852,
+                "VOLTAGE_LEVEL": 22,
+                "BASE_OBJ_TYPE": 50,
+                "BASE_OBJ_ID": 80000376,
+                "DEF_STATUS": 1,
+                "NAME": "",
+                "WORKSPACE": 63,
+                "KID": 5747,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.8649042736,
+                            -10570.460048128001
+                        ],
+                        [
+                            -14622.8649042736,
+                            -10570.2477949562
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 41,
+                "FNODE": 2740871,
+                "TNODE": 2740884,
+                "FLAG": 65,
+                "ID": 80003909,
+                "OBJ_SYM": 91,
+                "OBJ_SIZE": 28,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 14181,
+                "NAME": "10千伏一段母线避雷器",
+                "PTYPE": 10,
+                "PID": 80006286,
+                "VOLTAGE_LEVEL": 22,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.298526358301,
+                            -10568.2651027953
+                        ],
+                        [
+                            -14622.5111489873,
+                            -10568.2667037766
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 41,
+                "FNODE": 19450053,
+                "TNODE": 2739325,
+                "FLAG": 65,
+                "ID": 80002902,
+                "OBJ_SYM": 91,
+                "OBJ_SIZE": 28,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 14166,
+                "NAME": "10千伏1号电容器甲组避雷器",
+                "PTYPE": 11,
+                "PID": 80024016,
+                "VOLTAGE_LEVEL": 22,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.21865956,
+                            -10570.460048128001
+                        ],
+                        [
+                            -14623.21865956,
+                            -10570.2477949562
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 50,
+                "FNODE": 2741018,
+                "TNODE": 2741019,
+                "FLAG": 81,
+                "ID": 80000376,
+                "STATION": 80000852,
+                "DEF_STATUS": 1,
+                "WORKSPACE": 63,
+                "KID": 21702,
+                "NAME": "10千伏一段压变初级熔丝",
+                "PTYPE": 10,
+                "PID": 80006286,
+                "VOLTAGE_LEVEL": 22,
+                "USAGE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.21865956,
+                            -10570.1062928416
+                        ],
+                        [
+                            -14623.21865956,
+                            -10569.964790727101
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 47,
+                "FNODE": 2740984,
+                "TNODE": 2741040,
+                "FLAG": 65,
+                "ID": 80001607,
+                "OBJ_SIZE": 28,
+                "OBJ_SYM": 145,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 6901,
+                "NAME": "10千伏一段压变",
+                "PTYPE": 10,
+                "PID": 80006286,
+                "VOLTAGE_LEVEL": 22,
+                "SUBTYPE": 1,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.298526358301,
+                            -10568.2651027953
+                        ],
+                        [
+                            -14622.0866426437,
+                            -10568.2667037766
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 47,
+                "FNODE": 19450053,
+                "TNODE": 2739335,
+                "FLAG": 65,
+                "ID": 80001187,
+                "OBJ_SIZE": 28,
+                "OBJ_SYM": 146,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 6897,
+                "NAME": "10千伏1号电容器甲组放电压变",
+                "PTYPE": 11,
+                "PID": 80024016,
+                "VOLTAGE_LEVEL": 22,
+                "SUBTYPE": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14621.874389472001,
+                            -10569.540222807302
+                        ],
+                        [
+                            -14621.8743278957,
+                            -10569.823288612599
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 40,
+                "FNODE": 2738787,
+                "TNODE": 2738149,
+                "STOPFLAG": 0,
+                "VOLTAGE_LEVEL": 22,
+                "ID": 80012586,
+                "FLAG": 77,
+                "OBJ_SYM": 187,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 112414,
+                "DFROM": 0,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14621.8743278957,
+                    -10569.823288612599
+                ]
+            },
+            "properties": {
+                "obj_type": 312,
+                "FNODE": 2738149,
+                "FLAG": 65,
+                "ID": 80000009,
+                "OBJ_SYM": 205,
+                "OBJ_SIZE": 14,
+                "OBJ_ANGLE": 90,
+                "STATION": 80000852,
+                "GISDESC": "",
+                "WORKSPACE": 63,
+                "KID": 17706,
+                "NAME": "",
+                "PTYPE": 0,
+                "PID": 0,
+                "VOLTAGE_LEVEL": 22,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14621.874389472001,
+                    -10569.540222807302
+                ]
+            },
+            "properties": {
+                "obj_type": 312,
+                "FNODE": 2738787,
+                "FLAG": 65,
+                "ID": 80000010,
+                "OBJ_SYM": 205,
+                "OBJ_SIZE": 14,
+                "OBJ_ANGLE": 270,
+                "STATION": 80000852,
+                "GISDESC": "",
+                "WORKSPACE": 63,
+                "KID": 17707,
+                "NAME": "",
+                "PTYPE": 0,
+                "PID": 0,
+                "VOLTAGE_LEVEL": 22,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14623.5020948224,
+                            -10570.3170066084
+                        ],
+                        [
+                            -14623.5020948224,
+                            -10570.4585702991
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 350,
+                "FNODE": 2741044,
+                "TNODE": 2741079,
+                "FLAG": 65,
+                "ID": 80000044,
+                "STATION": 80000852,
+                "GRD_ATTRIB": 0,
+                "WORKSPACE": 63,
+                "KID": 48824,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.2992036965,
+                            -10568.4104226344
+                        ],
+                        [
+                            -14622.2992036965,
+                            -10568.6904712057
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 45,
+                "FNODE": 19488368,
+                "TNODE": 19488369,
+                "FLAG": 65,
+                "ID": 80000275,
+                "OBJ_SYM": 357,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 13090,
+                "NAME": "10千伏1号电容器甲组电抗器",
+                "PTYPE": 11,
+                "PID": 80024016,
+                "VOLTAGE_LEVEL": 22,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14622.2988958155,
+                            -10567.984438462
+                        ],
+                        [
+                            -14622.2988958155,
+                            -10568.1244627476
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 44,
+                "FNODE": 19450052,
+                "TNODE": 19450053,
+                "FLAG": 65,
+                "ID": 80002991,
+                "OBJ_SYM": 90,
+                "STATION": 80000852,
+                "WORKSPACE": 63,
+                "KID": 44719,
+                "NAME": "10千伏1号电容器甲组",
+                "PTYPE": 11,
+                "PID": 80024016,
+                "VOLTAGE_LEVEL": 22,
+                "FEEDER": 0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            -14624.9166849343,
+                            -10566.214923116
+                        ],
+                        [
+                            -14624.9166849343,
+                            -10574.846675254501
+                        ],
+                        [
+                            -14607.071223962499,
+                            -10574.846675254501
+                        ],
+                        [
+                            -14607.071223962499,
+                            -10566.214923116
+                        ],
+                        [
+                            -14624.9166849343,
+                            -10566.214923116
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "obj_type": 1,
+                "FLAG": 64,
+                "ID": 80000852,
+                "GRID_ROWNUMBER": 122,
+                "WORKSPACE": 63,
+                "KID": 15398,
+                "NAME": "九亭站",
+                "SUBTYPE": 1,
+                "VOLTAGE_LEVEL": 25,
+                "DISPATCH_NO": "73017",
+                "FEEDER": 0
+            }
+        }
+    ]
+}

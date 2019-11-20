@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <meta charset="utf-8"/>
+    <script type="text/javascript">
+        function draw() {
+            var canvas = document.getElementById('SimpleCanvas');
+            if (!canvas || !canvas.getContext) {
+                return false;
+            }
+            var context = canvas.getContext('2d');
+            var img = new Image();
+            img.onload = function onImageLoad() {
+                context.drawImage(img, 128, 40);
+            };
+            img.src = 'ccc.png';
+            // 设置字体
+            context.font = "18px bold 黑体";
+            // 设置颜色
+            context.fillStyle = "#ff0";
+            // 设置水平对齐方式
+            context.textAlign = "center";
+            // 设置垂直对齐方式
+            context.textBaseline = "middle";
+            // 绘制文字（参数：要写的字，x坐标，y坐标）
+            context.fillText("要写的文字", 80, 100);
+        }
+    </script>
+
+</head>
+
+<body onload="draw()" style="background-color:#D0D0D0;">
+
+<canvas id="SimpleCanvas" width="640" height="480" style="background-color:#FFFFFF;"></canvas>
+
+<div>Canvas Demo</div>
+
+</body>
+
+</html>

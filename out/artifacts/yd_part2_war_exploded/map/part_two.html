@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<style>
+    body {
+        width: 95%;
+        display: none;
+    }
+
+    #myCanvas {
+        background: #ffd887;
+    }
+
+    /*左半部分样式*/
+    #left-panel {
+        width: 250px;
+        background: #fff;
+        position: fixed;
+        font-size: 16px;
+        padding: 20px;
+        top: 20px;
+        background: rgba(0, 0, 0, 0);
+    }
+
+    .objTypeSelect {
+        font-family: "微软雅黑", serif;
+        background: #ffffff;
+        width: 249px;
+        height: 40px;
+        font-size: 18px;
+        text-align: center;
+        border: 1px #1a1a1a solid;
+        border-radius: 5px;
+        padding-left: 10px;
+    }
+
+    option {
+        color: black;
+        background: #A6E1EC;
+        line-height: 20px;
+    }
+
+    .objTypeSelect:focus {
+        border: 2px #ddd solid;
+        box-shadow: 0 0 15px 1px #DDDDDD;
+    }
+
+    option:hover {
+        background: #EBCCD1;
+    }
+
+    #dataFloat {
+        margin-top: 30px;
+        display: none;
+        background: #ffffff;
+        width: 250px;
+        position: fixed;
+        font-size: 16px;
+        padding: 20px;
+        top: 70px;
+    }
+
+    /*方向按钮*/
+    #directionBtns {
+        width: 200px;
+        position: absolute;
+        bottom: 40px;
+        left: 20px;
+    }
+
+    .inlineD {
+        float: left;
+    }
+
+    /*------------------------------方向按钮样式-----------------------------*/
+    #upB {
+        width: 0;
+        height: 0;
+        border-top: none; /*设置并显示上边框*/
+        border-bottom: 40px solid #000; /*不设置下边框*/
+        border-left: 20px solid transparent; /*设置但隐藏左边框*/
+        border-right: 20px solid transparent; /*设置但隐藏右边框*/
+    }
+
+    #downB {
+        width: 0;
+        height: 0;
+        border-top: 40px solid #000; /*设置并显示上边框*/
+        border-bottom: none; /*不设置下边框*/
+        border-left: 20px solid transparent; /*设置但隐藏左边框*/
+        border-right: 20px solid transparent; /*设置但隐藏右边框*/
+        margin-top: 20px;
+    }
+
+    #leftB {
+        width: 0;
+        height: 0;
+        border-top: 20px solid transparent; /*设置并显示上边框*/
+        border-bottom: 20px solid transparent; /*不设置下边框*/
+        border-left: none; /*设置但隐藏左边框*/
+        border-right: 40px solid #000; /*设置但隐藏右边框*/
+        margin-top: 30px;
+        margin-right: 10px;
+    }
+
+    #rightB {
+        width: 0;
+        height: 0;
+        border-top: 20px solid transparent;
+        border-bottom: 20px solid transparent;
+        border-right: none;
+        border-left: 40px solid #000;
+        margin-top: 30px;
+        margin-left: 10px;
+    }
+
+    /*.arrow:hover{*/
+    /*    border-top:none;                  !*鼠标经过时，不设置上边框*!*/
+    /*    border-bottom:50px solid #000;    !*鼠标经过时，设置并显示下边框*!*/
+    /*}*/
+</style>
+<body>
+<canvas id="myCanvas"></canvas>
+<div id="left-panel">
+    <select class="objTypeSelect" name="obj_type" onclick="selectType(this.value)">
+        <option value="-1">--请选择--</option>
+    </select>
+</div>
+
+<!--路段信息-->
+<div id="dataFloat">
+</div>
+
+<div id="directionBtns">
+    <div id="leftB" class="inlineD directionBtn" onclick="directionBtnClick('left')"></div>
+    <div class="centerBox inlineD">
+        <div id="upB" class="directionBtn" onclick="directionBtnClick('up')"></div>
+        <div id="downB" class="directionBtn" onclick="directionBtnClick('down')"></div>
+    </div>
+    <div id="rightB" class="inlineD directionBtn" onclick="directionBtnClick('right')"></div>
+</div>
+</body>
+<!--导入变量-->
+<script src="js/xnVariable.js"></script>
+<script src="js/xnBase.js"></script>
+<!--导入滚轮事件-->
+<script src="js/mouseEvent.js"></script>
+<script>
+    //-----------------------事件添加------------------------------
+    if (canvas.addEventListener) {
+        // IE9, Chrome, Safari, Opera
+        canvas.addEventListener("click", clickCanvas, false);
+        canvas.addEventListener("mousedown", mousedownCanvas, false);
+        canvas.addEventListener("mousewheel", scaleCanvas, false);
+
+        // Firefox
+        canvas.addEventListener("DOMMouseScroll", scaleCanvas, false);
+    } else {
+        // IE 6/7/8
+        canvas.attachEvent("onclick", clickCanvas);
+        canvas.attachEvent("onmousedown", mousedownCanvas);
+        canvas.attachEvent("onmousewheel", scaleCanvas);
+    }
+
+    window.onresize = function(){
+        // 屏幕可视大小
+        windowWidth = document.documentElement.clientWidth - 40;
+        windowHeight = document.documentElement.clientHeight - 40;
+        // 设置画布点宽高为屏幕宽高
+        canvas.width = windowWidth;
+        canvas.height = windowHeight;
+        //清除画布
+        clears();
+        // 填充画布
+        fillCanvas();
+    };
+
+    // 加载中
+    window.onload = function () {
+        // 初始化
+        init();
+        //显示内容
+        document.body.style.display = "block";
+    };
+</script>
+</html>

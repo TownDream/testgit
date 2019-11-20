@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+
+<body>
+<div id="canvasBox">
+
+</div>
+</body>
+<script src="js/canvasUtil.js"></script>
+<script src="js/canvasManager.js"></script>
+<script src="js/canvasEvents.js"></script>
+<script>
+
+    // 创建画布管理类
+    // canvasBox 为画布boxId
+    let canvasManager = new CanvasManager("canvasBox");
+    // 创建对应工具类
+    let cUtil = new CanvasUtil(canvasManager.getCanvas());
+    let nUtil = new CanvasUtil(canvasManager.getNCanvas());
+    canvasManager.init();
+    // 创建画布事件类
+    let canvasEvents = new CanvasEvents(canvasManager);
+
+    window.onload = function () {
+        // 画布事件类初始化
+        canvasEvents.init();
+    };
+
+</script>
+</html>

@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Insert title here</title>
+</head>
+<style>
+    body {
+        width: 2000px;
+    }
+
+    #tableM {
+        display: none;
+        width: 100%;
+    }
+
+    #tableM tr td {
+        text-align: center;
+    }
+
+    #selectDiv {
+        display: none;
+        margin-bottom: 30px;
+    }
+
+</style>
+<body>
+<div id="selectDiv">
+    <select id="typeSelect" name="obj_type" onchange="selectType(this.value)">
+        <option value="-1">--请选择--</option>
+    </select>
+</div>
+<br/>
+<br/>
+<table id="tableM">
+
+</table>
+</body>
+<script>
+
+    //数据是否加载成功 -1未加载 0成功 1失败
+    var isSuccess = -1;
+    //json内容变量记录
+    var data = "1";
+    //记录当前查看的类型号
+    var readOType = -1;
+    // table元素
+    var table = document.getElementById("tableM");
+    //获取select
+    var selectDiv = document.getElementById("selectDiv");
+    var selectByType = document.getElementById("obj_type");
+
+    //	获取json文件内容
+    var request = new XMLHttpRequest();
+
+    // 种类Map
+    var typeMap = new Map();
+
+    // 初始化
+    var init = function () {
+        loadAllTData();
+    };
+
+    let pTranslateMap = new Map();
+    let vlTranslateMap = new Map();
+
+    var loadAllTData = function () {
+        request.open("get", "json/translate_all.json");
+        request.send(null);
+        request.onload = function () {
+            if (request.status === 200) {
+                isSuccess = 0;
+                const json = JSON.parse(request.responseText);
+                // 获取分类字典
+                for (let type of json.typeT) {
+                    typeMap.set(type.ID, type.NAME);
+                }
+                // 获取性能字段翻译字典
+                for (let p of json.propertiesT) {
+                    pTranslateMap.set(p.ENAME, p.CNAME);
+                }
+                // 获取电压等级字典
+                for (let vl of json.vlT) {
+                    vlTranslateMap.set(vl.NUM, vl.CNAME);
+                }
+                loadJSONData();
+                table.style.display = "inline";
+                selectDiv.style.display = "inline";
+            } else {
+                isSuccess = 1;
+            }
+        }
+    };
+
+
+    var loadJSONData = function () {
+        request.open("get", "json/json_data.json");
+        request.send(null);
+        request.onload = function () {
+            const json = JSON.parse(request.responseText);
+            data = json.features;
+			console.log("data",data);
+            let selectType = document.getElementById("typeSelect");
+            let selectTypeOptions = new Set();
+            for (let dataR of data) {
+                selectTypeOptions.add(dataR.properties.obj_type);
+            }
+            selectTypeOptions = Array.from(selectTypeOptions).sort(
+                function (a, b) {
+                    return a - b;
+                }
+            );
+            for (let type of selectTypeOptions) {
+                selectType.options.add(new Option(translate(type, "obj_type"), type));
+            }
+        }
+    };
+
+    // 翻译方法
+    var translate = function (str, type) {
+        if (type === "properties") {
+            str = str.toUpperCase();
+            return pTranslateMap.get(str) === undefined ? str : pTranslateMap.get(str);
+        } else if (type === "vl") {
+            return vlTranslateMap.get(str);
+        } else if (type === "obj_type") {
+            return typeMap.get(str) === undefined ? str : typeMap.get(str);
+        }
+    };
+
+
+    //加载选择type数据
+    var loadData = function (obj_type, data) {
+        //如果选中相同type，则不加载
+        if (readOType === obj_type) {
+            return;
+        }
+        //清空当前标签
+        let isAddTr = false;
+
+        readOType = obj_type;
+        let allProperties = [];
+        for (let dataR of data) {
+            if (dataR.properties.obj_type == obj_type) {
+                //判断是否添加列标题
+                if (!isAddTr) {
+                    let trwTh = "<tr>";
+//			 	记录当前type中所包含的properties
+                    for (let k in dataR.properties) {
+                        if (k === 'obj_type') continue;
+                        allProperties.push(k);
+                        trwTh += "<th class='thT'>" + translate(k, "properties") + "</th>"
+                    }
+                    trwTh += "</tr>";
+                    table.innerHTML = trwTh;
+                    isAddTr = true;
+                }
+
+                var row = table.insertRow(table.rows.length);
+                let rowTD = "";
+                console.log(dataR.properties);
+                for (let propertie of allProperties) {
+                    if ("VOLTAGE_LEVEL" === propertie) {
+                        rowTD += "<td>" + translate(dataR.properties[propertie], "vl") + "</td>"
+                    } else {
+                        rowTD += "<td>" + dataR.properties[propertie] + "</td>"
+                    }
+
+                }
+                row.innerHTML = rowTD;
+            }
+        }
+    };
+
+    // 选中方法
+    var selectType = function (value) {
+        console.log("value",value);
+        if (value === -1) {
+            alert("请选择其他选项");
+        } else if (isSuccess === 0) {
+            loadData(value, data);
+        } else if (isSuccess === -1) {
+            alert("正在加载数据");
+        } else {
+            alert("加载数据失败");
+        }
+    };
+
+    window.onload = function () {
+//    初始化数据
+        init();
+    }
+</script>
+</html>
